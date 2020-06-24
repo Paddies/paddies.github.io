@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 哈哈，你好
 
 You can use the [editor on GitHub](https://github.com/Paddies/paddies.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
